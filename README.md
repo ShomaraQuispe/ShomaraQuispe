@@ -1,48 +1,25 @@
-<h1> 
-  Oiie, eu sou a Shomara :) 
-</h1>
-  
-  
+<h1 align="center">Oie 👋, meu nome é Shomara Quispe</h1>
 
-  
- 🎮 Estudante de Desenvolvimento de Games.
-  <br> <br>
- 🎯 Graduanda em Marketing.
-  <br> <br>
- 📌 Interesse: Dev Unity & Tech Art.
-  <br> <br>
- 🎼🎸 Amo escutar músicas.
-  <br> <br>
- 🎨 Atualmente trabalho como designer, outra paixão que tenho.
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif"/>
 
-   <br>
-   <br>
-  
-<div>
-  <img align="center" alt="Shomara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Shomara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Shomara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+Sou designer e atualmente estou em transição de carreira para ser uma Desenvolvedora Web Full Stack .NET
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shomaraquispe&layout=compact&langs_count=7&title_color=000000&text_color=000000&icon_color=9e3f3f&bg_color=f7f7f7">
 </div>
 
- <br>
- <br>
- <br>
+  
+ ### Skills
+[![Tecnologia](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,react,nodejs,git,docker,git,ai,ps)]([https://github.com/ShomaraQuispe])
+<br><br>
+<img height="44" hspace="1" width="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+<br><br>
    
 
  <div>
-  <a href="https://discord.gg/Shomara#2191" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href ="mailto:shomaraclaudia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shomara-claudia-flores-quispe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href ="https://shomara.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
  </div>
- 
- 
- <br>
- 
- <div>
- <img src="https://aleen42.github.io/badges/src/photoshop.svg">
- <img src="https://aleen42.github.io/badges/src/illustrator.svg">
-</div>
 
  <br> <br>
  Gracias!✨
