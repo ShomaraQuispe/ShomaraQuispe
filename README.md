@@ -8,9 +8,10 @@ Sou designer e atualmente estou em transição de carreira para ser uma Desenvol
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shomaraquispe&layout=compact&langs_count=7&title_color=000000&text_color=000000&icon_color=9e3f3f&bg_color=f7f7f7">
 </div>
 
+ <br> <br>
   
  ### Skills
-[![Tecnologia](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,react,nodejs,git,docker,git,ai,ps)]([https://github.com/ShomaraQuispe])
+[![Tecnologia](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,react,nodejs,docker,git,ai,ps)]([https://github.com/ShomaraQuispe])
 <br><br>
 <img height="44" hspace="1" width="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
 <br><br>
