@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif"/>
 
-Sou designer e atualmente estou em transição de carreira para ser uma Desenvolvedora Web Full Stack .NET
+Sou designer e atualmente estou em transição de carreira para ser uma Desenvolvedora.
 <br><br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shomaraquispe&layout=compact&langs_count=7&title_color=000000&text_color=000000&icon_color=9e3f3f&bg_color=f7f7f7">
